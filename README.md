@@ -63,7 +63,7 @@
 ## 📫 Contato
 
 <p align="center">
-  <a href="mailto:seuemail@email.com">
+  <a href="guilhermemarchelicomm@gmail.com">
     <img src="https://img.shields.io/badge/Email-00f7ff?style=for-the-badge&logo=gmail&logoColor=black"/>
   </a>
   <a href="https://linkedin.com/in/seu-link">
