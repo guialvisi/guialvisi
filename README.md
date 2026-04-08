@@ -64,7 +64,7 @@
 
 <p align="center">
   <a href="guilhermemarchelicomm@gmail.com">
-    <img src="https://img.shields.io/badge/Email-00f7ff?style=for-the-badge&logo=gmail&logoColor=black"/>
+    <img src="https://mail.google.com/mail/u/0/#inbox"/>
   </a>
   <a href="https://linkedin.com/in/seu-link">
     <img src="https://img.shields.io/badge/LinkedIn-00f7ff?style=for-the-badge&logo=linkedin&logoColor=black"/>
