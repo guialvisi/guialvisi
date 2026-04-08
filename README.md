@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  🚀 Desenvolvedor | 💻 Apaixonado por tecnologia | 🐳 Docker | 🗄️ SQL
+  🚀 Desenvolvedor | 💻 Estudante de TI | Front-END | Back-END | FullStack
 </p>
 
 <p align="center">
